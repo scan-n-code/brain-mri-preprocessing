@@ -1,0 +1,15 @@
+file,metric_set,contrast_std,entropy,edge_strength
+Te-gl_13.jpg,original,38.71,5.951,34.69
+Te-gl_13.jpg,enhanced,52.98,6.812,51.30
+Te-gl_29.jpg,original,47.09,6.970,32.57
+Te-gl_29.jpg,enhanced,59.58,7.497,49.73
+Te-gl_35.jpg,original,41.66,6.289,34.60
+Te-gl_35.jpg,enhanced,56.11,7.068,50.47
+Te-gl_6.jpg,original,32.87,4.856,23.12
+Te-gl_6.jpg,enhanced,48.50,5.456,35.32
+Te-no_18.jpg,original,49.41,5.724,58.25
+Te-no_18.jpg,enhanced,65.10,6.633,75.88
+Te-no_2.jpg,original,78.37,5.562,103.03
+Te-no_2.jpg,enhanced,82.94,6.012,102.64
+Te-no_35.jpg,original,67.20,7.072,142.20
+Te-no_35.jpg,enhanced,68.58,7.519,135.65
