@@ -56,8 +56,7 @@ Example results on slices from the Brain Tumor MRI Dataset.
 
 On the example slices, the enhanced images show clearer borders between brain
 structures, and the histograms are spread over a wider intensity range.
-Measured values for all images are in `results/metrics.csv`.
-
+Measured values for all images are in metrics.csv.
 Observations:
 - CLAHE also slightly increases background noise in some images.
 - In sagittal slices, bone and facial structures become very bright.
