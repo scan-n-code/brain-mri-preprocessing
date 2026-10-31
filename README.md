@@ -51,8 +51,8 @@ For educational purposes only. Do not use for medical decisions.
 ## Results
 Example results on slices from the Brain Tumor MRI Dataset.
 
-![Axial slice](images/Te-no_2_comparison.png)
-![Sagittal slice](images/Te-gl_13_comparison.png)
+![Axial slice](Te-no_2_comparison.png)
+![Sagittal slice](Te-gl_13_comparison.png)
 
 On the example slices, the enhanced images show clearer borders between brain
 structures, and the histograms are spread over a wider intensity range.
