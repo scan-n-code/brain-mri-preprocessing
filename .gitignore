@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# Keep your dataset out of the repo (check the dataset license first)
+data/*
+!data/.gitkeep
