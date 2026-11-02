@@ -1,4 +1,5 @@
 # Brain MRI Image Contrast Enhancement & Digital Preprocessing
+ **Disclaimer:** This is an educational/research project. It is not a medical device and must not be used for clinical decisions.
 
 A small beginner project that improves the visibility of structures in raw brain MRI slices
 using simple, classical image processing.
@@ -67,3 +68,9 @@ Observations:
 Images are from the "Brain Tumor MRI Dataset" by Masoud Nickparvar (Kaggle),
 licensed under CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
 The dataset itself is not included in this repository.
+
+## Development note
+This project was developed with AI coding assistance. I designed the pipeline, ran it, and reviewed the results and limitations.
+
+##Author
+ Fiza Aamir
